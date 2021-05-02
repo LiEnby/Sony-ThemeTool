@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="CustomControl\TransparentLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="CustomControl\TransparentPictureBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="theme_tool\AboutBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="theme_tool\AlphaColorDialog.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="theme_tool\AlphaTrackBar.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="theme_tool\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="theme_tool\NumericTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="theme_tool\UserControl\ErrorMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

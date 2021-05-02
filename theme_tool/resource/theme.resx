@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+<resheader name="resmimetype"><value>text/microsoft-resx</value></resheader><resheader name="version"><value>1.3</value></resheader><resheader name="reader"><value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><resheader name="writer"><value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value></resheader><data name="hostCollabo"><value>Content Manager</value></data>
+  <data name="noticeFontColor"><value>NoticeFontColor</value></data>
+  <data name="basePageImage"><value>BasePageImage</value></data>
+  <data name="infomation"><value>Information</value></data>
+  <data name="pagePos"><value>PagePos</value></data>
+  <data name="package"><value>PackageImage</value></data>
+  <data name="browser"><value>Browser</value></data>
+  <data name="infomationBarColor"><value>BarColor</value></data>
+  <data name="filePath"><value>File</value></data>
+  <data name="curPageImage"><value>CurPageImage</value></data>
+  <data name="backgroundColor"><value>BackgroundColor</value></data>
+  <data name="iconCategory"><value>Icon</value></data>
+  <data name="infomationBarCategory"><value>InformationBar</value></data>
+  <data name="newNoticeFilePath"><value>NewNoticeImage</value></data>
+  <data name="noNoticeFilePath"><value>NoNoticeImage</value></data>
+  <data name="provider"><value>Provider</value></data>
+  <data name="lang_default"><value>Default</value></data>
+  <data name="calendar"><value>Calendar</value></data>
+  <data name="bgmCategory"><value>BGM</value></data>
+  <data name="noticeGlowColor"><value>NoticeGlowColor</value></data>
+  <data name="backgroundCategory"><value>Background</value></data>
+  <data name="lang_zh"><value>Chinese(simplified)</value></data>
+  <data name="lang_tr"><value>Turkish</value></data>
+  <data name="lang_pl"><value>Polish</value></data>
+  <data name="lang_pt"><value>Portuguese(Portugal)</value></data>
+  <data name="lang_sv"><value>Swedish</value></data>
+  <data name="lang_ru"><value>Russian</value></data>
+  <data name="lang_nl"><value>Dutch</value></data>
+  <data name="lang_no"><value>Norwegian</value></data>
+  <data name="lang_it"><value>Italian</value></data>
+  <data name="lang_ko"><value>Korean</value></data>
+  <data name="lang_ja"><value>Japanese</value></data>
+  <data name="lang_es"><value>Spanish</value></data>
+  <data name="lang_en"><value>English(United States)</value></data>
+  <data name="lang_da"><value>Danish</value></data>
+  <data name="lang_de"><value>German</value></data>
+  <data name="lang_fr"><value>French</value></data>
+  <data name="lang_fi"><value>Finnish</value></data>
+  <data name="lang_ch"><value>Chinese(traditional)</value></data>
+  <data name="fontShadow"><value>FontShadow</value></data>
+  <data name="startSceenCategory"><value>Screen</value></data>
+  <data name="welcomePark"><value>WelcomePark</value></data>
+  <data name="email"><value>Email</value></data>
+  <data name="music"><value>Music</value></data>
+  <data name="image"><value>Image</value></data>
+  <data name="title"><value>Title</value></data>
+  <data name="param"><value>Param</value></data>
+  <data name="party"><value>Party</value></data>
+  <data name="power"><value>Power</value></data>
+  <data name="video"><value>Videos</value></data>
+  <data name="map"><value>Maps</value></data>
+  <data name="store"><value>PS Store</value></data>
+  <data name="borderColor"><value>BorderColor</value></data>
+  <data name="fontColor"><value>FontColor</value></data>
+  <data name="startscreen"><value>StartScreen</value></data>
+  <data name="indicatorColor"><value>IndicatorColor</value></data>
+  <data name="lang_pt_br"><value>Portuguese(Brazil)</value></data>
+  <data name="lang_en_gb"><value>English(United Kingdom)</value></data>
+  <data name="version"><value>Version</value></data>
+  <data name="message"><value>Messages</value></data>
+  <data name="settings"><value>Settings</value></data>
+  <data name="friend"><value>Friends</value></data>
+  <data name="layout"><value>Layout</value></data>
+  <data name="pageIndicatorCategory"><value>PageIndicator</value></data>
+  <data name="camera"><value>Photos</value></data>
+  <data name="parental"><value>Parental Controls</value></data>
+  <data name="startNotifyCategory"><value>Notification</value></data>
+  <data name="trophy"><value>Trophies</value></data>
+  <data name="language"><value>Language</value></data>
+  <data name="appTitle"><value>Theme Tool</value></data>
+  <data name="preview"><value>Preview</value></data>
+  <data name="ps4Link"><value>PS4 Link</value></data>
+  <data name="ps3Link"><value>PS3 Remote Play</value></data>
+  <data name="startDateTimeCategory"><value>DateTime</value></data>
+  <data name="home"><value>Home</value></data>
+  <data name="near"><value>near</value></data>
+  <data name="wave"><value>WaveType</value></data>
+  <data name="iconPos"><value>IconPos</value></data>
+  </root>
